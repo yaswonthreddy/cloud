@@ -1,0 +1,41 @@
+What is Cloud ?
+
+Cloud is a large virtual space of storage device where you can store a large type of data and run softwares and also access various services of the data. This allows users to access data anywhere with an internet connection
+
+What is Cloud Computing ?
+Cloud computing is a technology model that involves the delivery of computing services over the internet. Instead of owning and maintaining physical servers and infrastructure, users can access and use computing resources,applications,and storage   
+Public Cloud:Public cloud It's like using apps, storing files, or doing tasks on the internet that anyone can access.     Example: Think of Google Drive or Amazon Web Services (AWS).
+Private Cloud:  Private Cloud It's like a digital clubhouse where only you and your team have access. Others can't just drop in.it is own personal, private computer space     Example: A company using its own server for all its digital needs.
+   Hybrid Cloud:  It's like having your private computer space, but sometimes you use the shared internet space too.
+Example: A business storing sensitive data in its private space but using the public cloud for extra storage or specific tasks.
+Regions
+Regions in cloud computing refer to geographic locations where cloud providers have data centers. Each region contains multiple data centers.
+Availability Zones
+Availability Zones are isolated locations within a region that have their own power, cooling, and networking. They are designed to provide high availability and fault tolerance.
+Scalability
+Scalability is the ability of a system to handle an increasing amount of work or its potential to be enlarged to accommodate that growth.
+Elasticity
+Elasticity in cloud computing refers to the ability to dynamically scale resources up or down based on demand.
+Agility
+Agility is the capability of quickly and easily adapting to changes. In the context of cloud computing, it involves the rapid deployment of resources and applications.
+High Availability
+High Availability (HA) ensures that a system or application is operational and accessible for a high percentage of time, typically 99.9% or higher.
+Fault Tolerance
+Fault Tolerance is the ability of a system to continue operating without interruption in the presence of hardware or software failures.
+Disaster Recovery
+Disaster Recovery involves the planning and processes for restoring and recovering data and systems after a natural or human-induced disaster.
+Load Balancing
+Load Balancing is the distribution of network traffic or computing workload across multiple servers to ensure no single server is overwhelmed.
+
+Vocabulary in cloud computing
+Virtualization : virtualization is the process of creating virtual version of something such as operating system,or servers or storage devices or resources
+
+Virtual machine : virtual machine is a software based emulation where you can run multiple operating system on a single physical machine
+
+API (Application Programming Interface)
+Api is a set of rules and protocols that allows software to communicate with each other. It defines how software components should work with each other.
+
+Regions
+Regions in cloud computing refer to geographic locations where cloud providers have data centers. Each region contains multiple data centers.
+
+
